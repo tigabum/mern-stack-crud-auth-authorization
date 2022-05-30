@@ -1,6 +1,5 @@
-# mern-app-setup
-MERN application setup
-Full setup for mern application.
+# mern-stack-crud-auth-authorization
+MERN application with crud and auth/authorization feature
 
 
 ## Installation Step
